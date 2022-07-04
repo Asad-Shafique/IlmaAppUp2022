@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555288133785",
+    "project_id": "ilma-9afe5",
+    "storage_bucket": "ilma-9afe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555288133785:android:7b93d27fd33ffc0150b808",
+        "android_client_info": {
+          "package_name": "com.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555288133785-160pe6ftnqla0b9h678ucce1q29h058p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6c0s19KqGWxl_-67DjPfqix-yM36HZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555288133785-160pe6ftnqla0b9h678ucce1q29h058p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
